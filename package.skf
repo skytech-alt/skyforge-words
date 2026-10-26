@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-words"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Подсчет слов и оценка времени чтения текста."
+    репозиторий = "github.com/skytech-alt/skyforge-words"
+    точка_входа = "code/main.skf"
+    теги = ["words", "reading-time", "text"]
+    лицензия = "MIT"
+    зависимости = []
+}
